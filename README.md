@@ -1,4 +1,4 @@
-# m15-ds
+# m15_2_projeto_2
 ## Descrição
 Home de uma loja feita em react.
 

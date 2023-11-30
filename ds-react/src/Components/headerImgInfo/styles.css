@@ -1,0 +1,15 @@
+.headerImg {
+    background-color: #000;
+    display: flex;
+}
+
+.imgHeaderLink {
+    width: 100%;
+    height: 50px;
+    cursor: pointer;
+}
+
+.imgHeader {
+    width: 100%;
+    height: 50px;
+}

@@ -1,0 +1,57 @@
+.headerNav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 2rem;
+    height: 41px;
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .location {
+    width: 15%;
+    display: flex;
+    align-items: center;
+    border-right: 1px solid #eee;
+    padding-right: 1rem; 
+  }
+  
+  .locationIcon {
+    font-size: 1.6rem;
+    margin-right: 0.3rem;
+  }
+  
+  .locationText {
+    font-size: 12px;
+  }
+  
+  .categories {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  .categoriesActive {
+    align-items: center;
+  }
+  
+  .categoriesIcon {
+    font-size: 1.4rem;
+    cursor: pointer;
+  }
+  
+  .pointer {
+    cursor: pointer;
+  }
+  
+  .categoriesText {
+    color: #666;
+    font-size: 1rem;
+    text-wrap: nowrap;
+  }
+  
+  .categoriesText:hover {
+    color: #333;
+  }
+  

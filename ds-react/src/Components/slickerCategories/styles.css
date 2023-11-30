@@ -1,0 +1,42 @@
+.slickerCategories {
+    margin: 5rem 0;
+}
+
+.slick-slider, .slick-initialized {
+    width: 1300px;
+    margin: 0 auto;
+}
+.customPrevArrow {
+    position: absolute;
+    left: -30px;
+    top: 75px; 
+    z-index: 1; 
+  }
+  
+  .customNextArrow {
+    position: absolute;
+    right: -30px;
+    top: 75px; 
+    z-index: 1; 
+  }
+
+.cardOption {
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+}
+
+.cardOption:focus-visible {
+    border: none;
+}
+
+.customNextArrow, .customPrevArrow {
+    color: black;
+    cursor: pointer;
+}
+
+.customNextArrow svg, .customPrevArrow svg {
+    width: 50px;
+    height: 35px;
+}

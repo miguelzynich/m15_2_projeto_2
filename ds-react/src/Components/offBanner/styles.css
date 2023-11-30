@@ -1,0 +1,14 @@
+.offBanner {
+    flex-direction: column;
+    align-items: center;
+}
+
+.miniBanner {
+    margin: 2rem 0;
+}
+
+.cardBanners {
+    width: 1700px;
+    justify-content: space-between;
+   
+}

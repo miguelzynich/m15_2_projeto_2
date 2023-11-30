@@ -1,0 +1,45 @@
+.selectDS {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.color-action-primary {
+    color: rgb(99, 99, 243);
+    border-color: rgb(47, 47, 243);
+}
+
+.color-action-secondary {
+    color: rgb(65, 109, 99);
+    border-color: rgb(1, 221, 173);
+}
+
+.color-action-dark {
+    color: rgb(34, 32, 32);
+    border-color: #000;
+}
+
+.size-action-big {
+    width: 250px;
+}
+
+.size-action-medium {
+    width: 180px;
+}
+
+.size-action-small {
+    width: 120px;
+}
+
+.fSize-action-big {
+    font-size: 1.4rem;
+}
+
+.fSize-action-medium {
+    font-size: 1.2rem;
+}
+
+.fSize-action-small {
+    font-size: 1.1rem;
+}

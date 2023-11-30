@@ -1,0 +1,43 @@
+.btn {
+    cursor: pointer;
+    margin-top: 2rem;
+}
+
+.action-primary {
+    color: #fff;
+    background-color: #222;
+    width: 134px;
+    height: 31px;
+    border-style: none;
+    border-radius: 0;
+}
+   
+
+.action-secondary {
+    color: #000;
+}
+
+.align-action-center {
+    align-self: center;
+}
+
+
+.btn{
+    align-self: center;
+    justify-content: center;
+    margin-top: 1rem;
+    padding: 0.8rem 1.5rem;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #fff;
+    background-color: #10ba78;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .btn:hover {
+    background-color: #0a8c5e;
+  }
+  

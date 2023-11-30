@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "https://static.zattini.com.br/produtos/tenis-vizzano-casual-feminino/14/E11-0730-014/E11-0730-014_zoom1.jpg?ts=1695700341&ims=326x",
+      "alt": "Tênis Vizzano Casual Feminino",
+      "title": "Tênis Vizzano Casual Feminino",
+      "discount": true,
+      "discount_amount": "-5% OFF",
+      "old_price": "R$ 100,90",
+      "tax": false,
+      "price": "R$ 74,99"
+    },
+    {
+      "id": 2,
+      "image": "https://static.zattini.com.br/produtos/slip-on-santa-lolla-logo-feminino/06/H08-2245-006/H08-2245-006_zoom1.jpg?ts=1695700660&ims=326x",
+      "alt": "Slip On Santa Lolla Logo Feminino",
+      "title": "Slip On Santa Lolla Logo Feminino",
+      "discount": true,
+      "discount_amount": "-15% OFF",
+      "old_price": "R$ 129,90",
+      "tax": false,
+      "price": "R$ 89,99"
+    },
+    {
+      "id": 3,
+      "image": "https://static.zattini.com.br/produtos/tenis-vizzano-casual-feminino/14/2DD-7206-014/2DD-7206-014_zoom1.jpg?ts=1695699181&ims=326x",
+      "alt": "Tênis Vizzano Casual Feminino",
+      "title": "Tênis Vizzano Casual Feminino",
+      "discount": false,
+      "tax": true,
+      "price": "R$ 116,84"
+    },
+    {
+      "id": 4,
+      "image": "https://static.zattini.com.br/produtos/scarpin-vizzano-salto-medio-bico-fino/06/E11-7358-006/E11-7358-006_zoom1.jpg?ts=1695699091&ims=326x",
+      "alt": "Scarpin Vizzano Salto Médio Bico Fino",
+      "title": "Scarpin Vizzano Salto Médio Bico Fino",
+      "discount": true,
+      "discount_amount": "-22% OFF",
+      "old_price": "R$ 129,99",
+      "tax": false,
+      "price": "R$ 79,99"
+    }
+  ]
+}

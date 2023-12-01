@@ -2,7 +2,7 @@
   "name": "m15-projeto",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:3003",
+  "proxy": "http://localhost:3000",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -17,7 +17,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start --port 3003",
+    "start": "react-scripts start --port 3000",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

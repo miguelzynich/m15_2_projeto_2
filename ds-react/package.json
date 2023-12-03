@@ -2,8 +2,6 @@
   "name": "m15-projeto",
   "version": "0.1.0",
   "private": true,
-  "allowedHosts": "all",
-  "proxy": "http://localhost:3003",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -21,7 +19,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "api": "json-server --watch ../db.json --port 3003"
   },
   "eslintConfig": {
     "extends": [
